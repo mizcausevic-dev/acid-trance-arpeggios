@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:00.058742+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a12af3476eef4defb9c6e7aa48f4d7952a216cf62ae5dbddbc04b8a85f550a8c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0a9b6d47e550aeff66f8db3f2e5e738c532ef9960b6210e34b7663d1c57f1794",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "0c059db38e76141754d5f25c7d09f647c751a9bfd8972f55dd59953dc1c97fd5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "74866de0a405a1d3238306409ab79506fe88f00c68d0afda5e68931f51105c38",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5e11060e317aa4a25157d0d1eec18817b2e71399fef29c430c4faded0c84100c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3001-acid-trance-arpeggios-opening/z3001-acid-trance-arpeggios-opening-combined.mid",
+      "bytes": 6017,
+      "sha256": "c368ef2b2ba83b16c0f66706e704df4ea7bbfb18708b3a41b4def4d694625653",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b300e47339b9c70d043728f16244f795438dfb0777228af99dab0ee1beba837c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fc808c3e1826c160f2c9c69d018b8a5ec08675b12eee3beb8dc674786e2e9256",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/principal_motif.mid",
+      "bytes": 818,
+      "sha256": "7426da11c2113cefe4e407f97fe6fbcc90ce61b69946682a9d7cb9e75eecc36e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "5c197783eb84622cc0fa19d52484b582d59c8539ded5bb071447a729ca2e4244",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "38e2b3764793fd124c306ccf4f76256cd7aa421c4d641b3f4cbe0c3ca7c0340c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3002-acid-trance-arpeggios-variation/z3002-acid-trance-arpeggios-variation-combined.mid",
+      "bytes": 6017,
+      "sha256": "bc615134b8dcacc29255f18059214c2da091ed2a483b80252f0207ac62cc0bd1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0e8ea2d43d05459d06c7922af212ea29f6adac6f07614c2c2ccacc124c82d439",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ca3906d82c10765f87de11392f20048ce038de68dea39e1b07dd08291c829402",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "abf18c3be8ab16ae215eb00a1b4258513ccfd9f01f330695668fba65f893b0f2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "c318bb56a68d72d5b8360bf9a39a74b891809dc2aa02e4e2fe1926015332d8af",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "148d1aabb5d6ff8136fb82f4768383c8d6046c77ed36d945ec4279de96e81cc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3003-acid-trance-arpeggios-contrast/z3003-acid-trance-arpeggios-contrast-combined.mid",
+      "bytes": 5981,
+      "sha256": "0d2ce91bbb7801f1489f4319aa13fa47c1102c15e1a0eebfa5cf166dee0bc54f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a6d394d3f1623e33fb4640cfe6305105125dede90bb77b29c9b2f158418da26a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "674d5210981b9d2eba193f3488458fb0968d6f82abbfbc4ccbda4f8242a94a5a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/principal_motif.mid",
+      "bytes": 784,
+      "sha256": "ba74f37f1322806862f5d375c93e43d7e98b49c1d4941d5db586f4490e6db32d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/sub_bass.mid",
+      "bytes": 798,
+      "sha256": "7f1154663e88ea02ce497e67d07aff5b5000d5e8d759456c20ac428c162eab5c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "87183d36ffe9473f89f02e6bb970d228d8fbf3c0c06979e9bd599c7822527cc3",
+      "errors": []
+    },
+    {
+      "path": "midi/z3004-acid-trance-arpeggios-return/z3004-acid-trance-arpeggios-return-combined.mid",
+      "bytes": 5983,
+      "sha256": "136fb09db7b9dfd7ec2eaa17ed2804d15ae78490a988433a942028a2aaab2fb8",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

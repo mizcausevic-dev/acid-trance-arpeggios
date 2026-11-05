@@ -1,0 +1,26 @@
+{
+  "title": "Acid Trance Arpeggios",
+  "study": "z3001",
+  "bpm": 138,
+  "source_audio": "preview/acid-trance-arpeggios-simple-synth-preview.mp3",
+  "source_audio_sha256": "62fe25f283ea4bb221c09789bfed9a79a50f55e82e2dd512722e6ab75f5af1ff",
+  "source_midi": "midi/z3001-acid-trance-arpeggios-opening/z3001-acid-trance-arpeggios-opening-combined.mid",
+  "source_midi_sha256": "c368ef2b2ba83b16c0f66706e704df4ea7bbfb18708b3a41b4def4d694625653",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "2a5e24180e49f73e87a2b887251737e7b0e3b50489d9c21aa155a6b5107bb332",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "dca2d295464c8cbf0f759078d044ecd9b2929551b144151ef3a11926e2288f77",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "87ff663e8c5e7317696f340311afa42245eddcb8c5837b5aaf89c47b48fa3ddc",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
