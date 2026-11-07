@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/acid-trance-arpeggios-midi.zip",
-      "bytes": 31595,
-      "sha256": "c4f7f14de1dd099613deb1023c5a750e3eb0d5f5a962083f132168bbd9808d55"
+      "bytes": 32582,
+      "sha256": "1fabd73d61873d1c120ca165d4b699f6f25b4bdc717c032a0ade872823ecec9b"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9948,
-      "sha256": "6cd514bb567a4b9d04feb0c986481b52d76914d413e207d56b16830b84a2301d"
+      "bytes": 10138,
+      "sha256": "eae6e768f75e99fdbebb988533279c8c7c8b00412236db8407d6297386484b7e"
     },
     {
       "path": "midi/z3001-acid-trance-arpeggios-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "136fb09db7b9dfd7ec2eaa17ed2804d15ae78490a988433a942028a2aaab2fb8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/acid-trance-arpeggios-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "62fe25f283ea4bb221c09789bfed9a79a50f55e82e2dd512722e6ab75f5af1ff"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3970,
-      "sha256": "13dd8d311d84a6895a52e7a496dff63896bed3b9f4548207b7c18b7b3d76c73e"
+      "bytes": 4085,
+      "sha256": "f48d1f84b8eae85b5bac5c8d40fd1fab81f3be687b8b086cdef308323bb503c6"
     },
     {
       "path": "social/instagram/caption.txt",
